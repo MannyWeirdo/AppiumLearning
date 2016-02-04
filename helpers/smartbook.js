@@ -1,0 +1,1 @@
+exports.iosTestApp = '/Users/tokinonagare/Library/Developer/Xcode/DerivedData/SmartBook-fwkwqlpspsaqhbdimkevygwzzsqo/Build/Products/Debug-iphonesimulator/SmartBook.app'
